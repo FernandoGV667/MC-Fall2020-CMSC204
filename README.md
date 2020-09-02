@@ -1,5 +1,5 @@
-# FALL2020-CSMC204
+# MC-Fall2020-CMSC204 
 
-Repository created for the CSMC204 course
+Repository created for the Fall 2020 - CSMC204 course
 Prof. Robert Alexander
-Semester Fall 2020
+at Montgomery College
